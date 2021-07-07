@@ -1,6 +1,5 @@
 # TechSiteCollection，收集技术相关的优质站点
 
-@【TOC】
 
 # 技术社区&博客类
 
