@@ -1,6 +1,4 @@
-# TechSiteCollection
-
-# 收集技术相关的优质站点，不要再把时间浪费在过滤垃圾站点上
+# TechSiteCollection，收集技术相关的优质站点，不要再把时间浪费在过滤垃圾站点上
 
 # 博客类
 
